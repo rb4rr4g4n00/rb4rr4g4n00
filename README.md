@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Raúl Barragán.userName( @rb4rr4g4n00 ) 
+- 👀 I’m interested in Java, SQLs, Python, IoT
+- 🌱 I’m currently learning Spring Hibernate
+- 💞️ I’m looking to collaborate on Microsoft, Amazon
